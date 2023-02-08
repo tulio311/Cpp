@@ -1,3 +1,3 @@
 In this exercise I created a function in the file P00.cpp that do sums, powers and concatenations depending of the instruction given.
 I created an structure associated to a point in P04.cpp and structures of points in 2 and 3 dimensions that inherit the original point structure.
-Then I made an array of points structure.
+Then I made an array of points structure. 
