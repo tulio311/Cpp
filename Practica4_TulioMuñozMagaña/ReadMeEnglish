@@ -1,0 +1,2 @@
+This is an exercise about templates in C++. It has implementations of a searching algorithm and 2 sorting algorithms in template form.
+Then there is a program that receives n strings, sort them, and then receives a string and tell if it is in the list and in which index it is.
