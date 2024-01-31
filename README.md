@@ -1,3 +1,3 @@
-# cpp_Exercises
+# Cpp Exercises
 
-Some cpp exercises I've done at university.
+Some Cpp exercises I've done at university.
